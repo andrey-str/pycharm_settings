@@ -1,0 +1,109 @@
+<keymap version="1" name="Jetbarins keymap" parent="Mac OS X">
+  <action id="$Delete">
+    <keyboard-shortcut first-keystroke="DELETE" />
+    <keyboard-shortcut first-keystroke="BACK_SPACE" />
+  </action>
+  <action id="Back">
+    <keyboard-shortcut first-keystroke="control meta LEFT" />
+  </action>
+  <action id="ChooseDebugConfiguration">
+    <keyboard-shortcut first-keystroke="shift meta D" />
+  </action>
+  <action id="ChooseRunConfiguration">
+    <keyboard-shortcut first-keystroke="shift meta R" />
+  </action>
+  <action id="CloseActiveTab">
+    <keyboard-shortcut first-keystroke="meta W" />
+  </action>
+  <action id="CompareDirs" />
+  <action id="CompareJars" />
+  <action id="CompareTwoFiles" />
+  <action id="Console.History.Next" />
+  <action id="Console.History.Previous" />
+  <action id="Console.TableResult.Reload" />
+  <action id="Debug">
+    <keyboard-shortcut first-keystroke="meta D" />
+  </action>
+  <action id="Diff.UpdatedFiles" />
+  <action id="DomElementsTreeView.DeleteElement">
+    <keyboard-shortcut first-keystroke="DELETE" />
+    <keyboard-shortcut first-keystroke="BACK_SPACE" />
+  </action>
+  <action id="EditorBackSpace">
+    <keyboard-shortcut first-keystroke="BACK_SPACE" />
+  </action>
+  <action id="EditorDelete" />
+  <action id="EditorDeleteLine">
+    <keyboard-shortcut first-keystroke="meta L" />
+  </action>
+  <action id="EditorDeleteToLineStart">
+    <keyboard-shortcut first-keystroke="meta BACK_SPACE" />
+  </action>
+  <action id="EditorDeleteToWordEnd" />
+  <action id="EditorDuplicate" />
+  <action id="EditorLineEnd">
+    <keyboard-shortcut first-keystroke="meta RIGHT" />
+  </action>
+  <action id="EditorLineEndWithSelection">
+    <keyboard-shortcut first-keystroke="shift meta RIGHT" />
+  </action>
+  <action id="EditorLineStart">
+    <keyboard-shortcut first-keystroke="meta LEFT" />
+  </action>
+  <action id="EditorLineStartWithSelection">
+    <keyboard-shortcut first-keystroke="shift meta LEFT" />
+  </action>
+  <action id="EditorScrollDown" />
+  <action id="EditorScrollUp" />
+  <action id="EditorSelectWord" />
+  <action id="EditorTextEnd">
+    <keyboard-shortcut first-keystroke="meta DOWN" />
+  </action>
+  <action id="EditorTextEndWithSelection" />
+  <action id="EditorTextStart">
+    <keyboard-shortcut first-keystroke="meta UP" />
+  </action>
+  <action id="EditorTextStartWithSelection">
+    <keyboard-shortcut first-keystroke="shift meta DOWN" />
+  </action>
+  <action id="Forward">
+    <keyboard-shortcut first-keystroke="control meta RIGHT" />
+  </action>
+  <action id="IncrementWindowHeight" />
+  <action id="IncrementWindowWidth" />
+  <action id="IntroduceField" />
+  <action id="MoveStatementDown" />
+  <action id="RenameElement">
+    <keyboard-shortcut first-keystroke="control meta E" />
+  </action>
+  <action id="Replace">
+    <keyboard-shortcut first-keystroke="meta alt F" />
+  </action>
+  <action id="RerunTests">
+    <keyboard-shortcut first-keystroke="shift alt R" />
+  </action>
+  <action id="ResizeToolWindowDown" />
+  <action id="ResizeToolWindowRight" />
+  <action id="Run">
+    <keyboard-shortcut first-keystroke="meta R" />
+  </action>
+  <action id="SwitchApply">
+    <keyboard-shortcut first-keystroke="control alt ENTER" />
+  </action>
+  <action id="SwitchDown">
+    <keyboard-shortcut first-keystroke="control alt DOWN" />
+  </action>
+  <action id="SwitchLeft">
+    <keyboard-shortcut first-keystroke="control alt LEFT" />
+  </action>
+  <action id="SwitchRight">
+    <keyboard-shortcut first-keystroke="control alt RIGHT" />
+  </action>
+  <action id="SwitchUp">
+    <keyboard-shortcut first-keystroke="control alt UP" />
+  </action>
+  <action id="UsageView.Exclude">
+    <keyboard-shortcut first-keystroke="DELETE" />
+    <keyboard-shortcut first-keystroke="BACK_SPACE" />
+  </action>
+</keymap>
